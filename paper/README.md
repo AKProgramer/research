@@ -33,7 +33,7 @@ cd paper && pdflatex main && bibtex main && pdflatex main && pdflatex main
 
 ## Before submission
 
-- Replace `\repourl` at the top of `main.tex` with the repository link.
+- Make https://github.com/AKProgramer/research public (the paper links to it as `\repourl`).
 - Check the e-mail address in the author block.
 - Search the PDF for **??**. Any that remain mean a section had no data, so check the script's output.
 - Read Sections V–VIII against the actual numbers and adjust the interpretation where needed.
